@@ -1,0 +1,40 @@
+<svg
+        width="auto"
+        height="40"
+        viewBox="0 0 40 40"
+        xmlns="http://www.w3.org/2000/svg"
+>
+    <rect
+            x="0"
+            y="0"
+            width="40"
+            height="40"
+            fill="#3f8185"
+    />
+
+    <!-- Kwadrat z wykrzyknikiem -->
+    <rect
+            width="40"
+            height="40"
+            rx="5"
+            ry="5"
+            fill="white"
+            stroke-width="5"
+            stroke="#3f8185"
+    />
+
+    <!-- Wykrzyknik -->
+    <text
+            x="20"
+            y="23"
+            font-family="Roboto, sans-serif"
+            font-size="28"
+            font-weight="700"
+            fill="#3f8185"
+            text-anchor="middle"
+            dominant-baseline="middle"
+    >
+        !
+    </text>
+
+</svg>
